@@ -39,7 +39,7 @@
 
 *TODO: Incluir atividade em Markdown e códigos*
 
-## [Atividade 03](src/main/java/loo/josecomparotto/aula03/atividade03/README.md)
+## [Atividade 03](src/main/java/loo/josecomparotto/aula03/atividade03)
 
 ### Resumo
 
