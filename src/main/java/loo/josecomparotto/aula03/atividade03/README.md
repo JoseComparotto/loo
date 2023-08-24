@@ -159,7 +159,7 @@ B) A propriedade setId(), da classe Classe, senão existir, não irá gerar erro
 #### Justificativa Q2
 
 ```plain
-A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar nenhum método getter ou setter. Apesar de que neste caso o metodo referido está implementado na classe BaseIdentificador e não na classe Classe.
+A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar nenhum método getter ou setter. Incusive, nesse caso o metodo referido está implementado na classe pai (BaseIdentificador) e não na classe real (Classe).
 ```
 
 ### Questão 03
