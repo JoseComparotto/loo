@@ -9,7 +9,7 @@
 
 ## Resumo
 
-| 1 | 2 | 3 | 4 | 5 |
+| [1](#questão-01) | [2](#questão-02) | [3](#questão-03) | [4](#questão-04) | [5](#questão-06) |
 | - | - | - | - | - |
 | [Código](#resposta-q1) | [B](#resposta-q2) | [A](#resposta-q3) |   |   |
 
