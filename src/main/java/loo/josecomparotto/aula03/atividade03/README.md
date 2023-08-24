@@ -9,13 +9,13 @@
 
 ## Resumo
 
-| Questão | Resposta |
-| :-----: | :------: |
-| [1](#questão-01) | [Ver código](#resposta-q1)
-| [2](#questão-02) | [B](#resposta-q2)
-| [3](#questão-03) | [A](#resposta-q3)
-| [4](#questão-04) | [](#resposta-q4)
-| [5](#questão-05) | [](#resposta-q5)
+|  Questão  |  Resposta  |
+| :-------: | :--------: |
+| **[1](#questão-01)** | [Ver código](#resposta-q1)
+| **[2](#questão-02)** | [B](#resposta-q2)
+| **[3](#questão-03)** | [A](#resposta-q3)
+| **[4](#questão-04)** | [](#resposta-q4)
+| **[5](#questão-05)** | [](#resposta-q5)
 
 ## Questão 01
 
