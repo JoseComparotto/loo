@@ -13,7 +13,7 @@
 | - | - | - | - | - |
 | - | B | A |   |   |
 
-## Questão 01 {#questao01}
+## Questão 01 #questao01
 
 Crie um programa que atenda a especificação dos diagramas abaixo.
 
