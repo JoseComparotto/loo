@@ -1,16 +1,13 @@
-## Atividade 03
+# Atividade 03
 
-Academico: [José A. Q. C. Gomes `@JoseComparotto`](https://github.com/JoseComparotto)
+| Uniderp | Engenharia da Computação | Noturno              |
+| ------- | -------------------------| -------------------- |
+| Academico: | [José A. Q. C. Gomes `@JoseComparotto`](https://github.com/JoseComparotto) | RA: 398439413114 |
+| Professor: | [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao) |
+| Disciplina: | Linguagem Orientada a Objetos | 2023.2 - 4º Semestre
+| Atividade: | Atividade 03 | 23/08/2023 |
 
-Professor: [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao)
-
-Universidade: Uniderp Matriz - Campo Grande, MS
-
-Curso: Engenharia da Computação
-
-Perído: 2023.2 - 4º Semestre
-
-### Questão 01
+## Questão 01
 
 Crie um programa que atenda a especificação dos diagramas abaixo.
 
@@ -33,7 +30,7 @@ As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o con
 
 <https://github.com/JoseComparotto/loo/blob/98243d9cdab436cc9c1e5734b4f9fbb1edc640e1/src/main/java/loo/josecomparotto/aula03/atividade03/questao01/Professor.java#L1-L41>
 
-### Questão 02
+## Questão 02
 
 Considere o trecho de código abaixo.
 
@@ -110,7 +107,7 @@ Marque a alternativa correta nas afirmações abaixo.
 **Justificativa**: A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar nenhum método getter ou setter. Apesar de que neste caso o metodo referido está implementado na classe `BaseIdentificador` e não na classe `Classe`.
 
 
-### Questão 03
+## Questão 03
 
 Observe o código abaixo, e marque Verdadeiro ou Falso nas afirmações a seguir.
 
