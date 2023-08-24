@@ -1,38 +1,61 @@
-# Atividade 03
+## Atividade 03
 
-| Uniderp | Engenharia da Computação | Noturno |
-| -------- | ------------------------ | :-----: |
-| Academico: | [José A. Q. C. Gomes `@JoseComparotto`](https://github.com/JoseComparotto) | RA: 398439413114 |
-| Professor: | [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao) |
-| Disciplina: | Linguagem Orientada a Objetos | 2023.2 - 4º Semestre
-| Atividade: | [Atividade 03](/docs/aula03/LOO%20-%20Atividade%2003.pdf) | 23/08/2023 |
-
-## Resumo
-
-<table style="width: 100%">
-    <thead>
-        <tr>
-            <th align="center"><strong>Questão</strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-01">1</a></strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-02">2</a></strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-03">3</a></strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-04">4</a></strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-05">5</a></strong></th>
-        </tr>
-    </thead>
+<table style="width: 100%;display: table;">
     <tbody>
         <tr>
-            <td align="center"><strong>Resposta</strong></td>
-            <td align="center"><a href="#resposta-q1">-</a></td>
-            <td align="center"><a href="#resposta-q2">B</a></td>
-            <td align="center"><a href="#resposta-q3">A</a></td>
-            <td align="center"><a href="#resposta-q4">C</a></td>
-            <td align="center"><a href="#resposta-q5">B</a></td>
+            <td>Academico:</td>
+            <td><a href="https://github.com/JoseComparotto">José A. Q. C. Gomes <code>@JoseComparotto</code></a></td>
+            <td>RA: 398439413114</td>
+        </tr>
+        <tr>
+            <td>Curso:</td>
+            <td>Engenharia da Computação</td>
+            <td>Turno: Noturno</td>
+        </tr>
+        <tr>
+            <td>Professor:</td>
+            <td><a href="https://github.com/profluizao">Luiz Augusto Rodrigues <code>@profluizao</code></a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Disciplina:</td>
+            <td>Linguagem Orientada a Objetos</td>
+            <td>Período: 2023.2 - 4º Semestre</td>
+        </tr>
+        <tr>
+            <td>Atividade:</td>
+            <td><a href="https://drive.google.com/file/d/1k2aJ5Dg0wNOXxJ28nRfaI1WddvbDFsry/view">Atividade 03</a></td>
+            <td>23/08/2023</td>
         </tr>
     </tbody>
 </table>
 
-## Questão 01
+### Resumo
+
+<table>
+    <thead>
+        <tr>
+            <th><strong>Questão</strong></th>
+            <th><strong><a href="#quest%C3%A3o-01">1</a></strong></th>
+            <th><strong><a href="#quest%C3%A3o-02">2</a></strong></th>
+            <th><strong><a href="#quest%C3%A3o-03">3</a></strong></th>
+            <th><strong><a href="#quest%C3%A3o-04">4</a></strong></th>
+            <th><strong><a href="#quest%C3%A3o-05">5</a></strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Resposta</strong></td>
+            <td><a href="#resposta-q1">-</a></td>
+            <td><a href="#resposta-q2">B</a></td>
+            <td><a href="#resposta-q3">A</a></td>
+            <td><a href="#resposta-q4">C</a></td>
+            <td><a href="#resposta-q5">B</a></td>
+        </tr>
+    </tbody>
+</table>
+
+### Questão 01
 
 Crie um programa que atenda a especificação dos diagramas abaixo.
 
@@ -47,7 +70,7 @@ As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o con
   <img src="../../../../../../../assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
 </p>
 
-### Resposta Q1
+#### Resposta Q1
 
 <https://github.com/JoseComparotto/loo/blob/98243d9cdab436cc9c1e5734b4f9fbb1edc640e1/src/main/java/loo/josecomparotto/aula03/atividade03/questao01/BasePessoa.java#L1-L107>
 
@@ -55,7 +78,7 @@ As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o con
 
 <https://github.com/JoseComparotto/loo/blob/98243d9cdab436cc9c1e5734b4f9fbb1edc640e1/src/main/java/loo/josecomparotto/aula03/atividade03/questao01/Professor.java#L1-L41>
 
-## Questão 02
+### Questão 02
 
 Considere o trecho de código abaixo.
 
@@ -127,19 +150,19 @@ Marque a alternativa correta nas afirmações abaixo.
 
 - E) O código está semanticamente incorreto, e compilará sem erros ou avisos.
 
-### Resposta Q2
+#### Resposta Q2
 
 ```plain
 B) A propriedade setId(), da classe Classe, senão existir, não irá gerar erro de compilação.
 ```
 
-### Justificativa Q2
+#### Justificativa Q2
 
 ```plain
 A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar nenhum método getter ou setter. Apesar de que neste caso o metodo referido está implementado na classe BaseIdentificador e não na classe Classe.
 ```
 
-## Questão 03
+### Questão 03
 
 Observe o código abaixo, e marque Verdadeiro ou Falso nas afirmações a seguir.
 
@@ -173,19 +196,19 @@ public class Calculadora {
 
 - E) Baseado na semântica e funcionalidade do código, a classe está escrita incorretamente, e compilará com erros e avisos
 
-### Resposta Q3
+#### Resposta Q3
 
 ```plain
 A) Se necessário, o programador pode criar uma instância dessa classe, facilitando assim sua operação, bastando adicionar a outra classe a linha de código: `Calculadora calc = new Calculadora()`
 ```
 
-### Justificativa Q3
+#### Justificativa Q3
 
 ```plain
 O uso descrito na alternatva é plenamente válido, uma vez que a classe não é abstrata, logo pode ser instanciada diretamente. Além de que a única forma de acessar os métodos da classe é através de uma instancia, pois os métodos não são estáticos.
 ```
 
-## Questão 04
+### Questão 04
 
 Considerando a definição de um objeto, na Programação Orientada a Objetos, marque a alternativa correta nas afirmações que explicam a definição.
 
@@ -199,20 +222,20 @@ Considerando a definição de um objeto, na Programação Orientada a Objetos, m
 
 - E) Um objeto é uma porção de código que resolve um problema muito específico, parte de um problema maior.
 
-### Resposta Q4
+#### Resposta Q4
 
 ```plain
 C) Um objeto é uma entidade que possui um estado e um conjunto definido de operações definidas para funcionar nesse estado.
 ```
 
-### Justificativa Q4
+#### Justificativa Q4
 
 ```plain
 Dentre as alternativas, a letra "C" é a que melhor representa o conceito de objeto.
 Esclaresendo que o estado mencionado é composto pelo conjunto dos valores de suas propriedades, assim como os métodos definidos em sua classe são as operações que são executadas no contexto do estado de cada objeto.
 ```
 
-## Questão 05
+### Questão 05
 
 > *O aumento da produtividade de desenvolvimento e a capacidade de compartilhar o conhecimento adquirido, representa uma vantagem no uso de projetos orientados a objeto.*
 
@@ -224,13 +247,13 @@ Marque a alternativa correta nas afirmações que explicam esse fato.
 - D) todo método pode ser derivado naturalmente das operações de sua classe.
 - E) o encapsulamento impossibilita equívocos de código.
 
-### Resposta Q5
+#### Resposta Q5
 
 ```plain
 B) as classes podem ser potencialmente reutilizáveis.
 ```
 
-### Justificativa Q5
+#### Justificativa Q5
 
 ```plain
 O conceito da Abstração envolve representar entidades da vida real (por exemplo). Isso por si só já torna o código mais organizado e menos trabalhoso de manter.

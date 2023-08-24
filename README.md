@@ -1,16 +1,35 @@
 # Portifólio LOO
 
-Academico: [José A. Q. C. Gomes `@JoseComparotto`](https://github.com/JoseComparotto)
 
-Professor: [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao)
-
-Disciplina: Linguagem Orientada a Objetos
-
-Universidade: Uniderp Matriz - Campo Grande, MS
-
-Curso: Engenharia da Computação - Noturno
-
-Perído: 2023.2 - 4º Semestre
+<table style="width: 100%;display: table;">
+    <tbody>
+        <tr>
+            <td>Academico:</td>
+            <td><a href="https://github.com/JoseComparotto">José A. Q. C. Gomes <code>@JoseComparotto</code></a></td>
+            <td>RA: 398439413114</td>
+        </tr>
+        <tr>
+            <td>Curso:</td>
+            <td>Engenharia da Computação</td>
+            <td>Turno: Noturno</td>
+        </tr>
+        <tr>
+            <td>Professor:</td>
+            <td><a href="https://github.com/profluizao">Luiz Augusto Rodrigues <code>@profluizao</code></a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Disciplina:</td>
+            <td>Linguagem Orientada a Objetos</td>
+            <td>Período: 2023.2 - 4º Semestre</td>
+        </tr>
+        <tr>
+            <td>Atividade:</td>
+            <td><a href="https://drive.google.com/file/d/1k2aJ5Dg0wNOXxJ28nRfaI1WddvbDFsry/view">Atividade 03</a></td>
+            <td>23/08/2023</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Atividade 01
 
@@ -24,25 +43,25 @@ Perído: 2023.2 - 4º Semestre
 
 ### Resumo
 
-<table style="width: 100%">
+<table>
     <thead>
         <tr>
-            <th align="center"><strong>Questão</strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-01">1</a></strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-02">2</a></strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-03">3</a></strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-04">4</a></strong></th>
-            <th align="center"><strong><a href="#quest%C3%A3o-05">5</a></strong></th>
+            <th><strong>Questão</strong></th>
+            <th><strong><a href="#quest%C3%A3o-01">1</a></strong></th>
+            <th><strong><a href="#quest%C3%A3o-02">2</a></strong></th>
+            <th><strong><a href="#quest%C3%A3o-03">3</a></strong></th>
+            <th><strong><a href="#quest%C3%A3o-04">4</a></strong></th>
+            <th><strong><a href="#quest%C3%A3o-05">5</a></strong></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center"><strong>Resposta</strong></td>
-            <td align="center"><a href="#resposta-q1">-</a></td>
-            <td align="center"><a href="#resposta-q2">B</a></td>
-            <td align="center"><a href="#resposta-q3">A</a></td>
-            <td align="center"><a href="#resposta-q4">C</a></td>
-            <td align="center"><a href="#resposta-q5">B</a></td>
+            <td><strong>Resposta</strong></td>
+            <td><a href="#resposta-q1">-</a></td>
+            <td><a href="#resposta-q2">B</a></td>
+            <td><a href="#resposta-q3">A</a></td>
+            <td><a href="#resposta-q4">C</a></td>
+            <td><a href="#resposta-q5">B</a></td>
         </tr>
     </tbody>
 </table>
@@ -52,14 +71,14 @@ Perído: 2023.2 - 4º Semestre
 Crie um programa que atenda a especificação dos diagramas abaixo.
 
 <p align="center">
-  <img src="assets/img/diagrama_base_pessoa.jpg" alt="Diagrama BasePessoa" />
+  <img src="../../../../../../../assets/img/diagrama_base_pessoa.jpg" alt="Diagrama BasePessoa" />
 </p>
 
 As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o construtor das classes Professor e Aluno.
 
 <p align="center">
-  <img src="assets/img/diagrama_professor.jpg" alt="Diagrama Professor"/>
-  <img src="assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
+  <img src="../../../../../../../assets/img/diagrama_professor.jpg" alt="Diagrama Professor"/>
+  <img src="../../../../../../../assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
 </p>
 
 #### Resposta Q1
@@ -251,4 +270,3 @@ B) as classes podem ser potencialmente reutilizáveis.
 O conceito da Abstração envolve representar entidades da vida real (por exemplo). Isso por si só já torna o código mais organizado e menos trabalhoso de manter.
 A reutilização de classes acontece por meio da Herança, que permite criar uma super-classe para simplificar a criação de várias classes com carácterísticas em comum.
 ```
-
