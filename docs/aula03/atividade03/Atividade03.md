@@ -85,9 +85,9 @@ public class Produto extends Subclasse {
 
 Marque a alternativa correta nas afirmações abaixo.
 
-- ***A) Todas as instâncias de classe podem ser inicializadas corretamente.***
+- A) Todas as instâncias de classe podem ser inicializadas corretamente.
 
-- B)  A  propriedade `setId()`, da  classe `Classe`, senão existir, não  irágerar  erro  de compilação.
+- ***B) A propriedade `setId()`, da  classe `Classe`, senão existir, não  irágerar  erro  de compilação.***
 
 - C) É correto considerar todas as classes representadas como instanciáveis, segundo os conceitos de Orientação a Objeto.
 
