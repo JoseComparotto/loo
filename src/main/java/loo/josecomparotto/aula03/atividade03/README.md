@@ -13,7 +13,7 @@
 | - | - | - | - | - |
 | - | B | A |   |   |
 
-<h2 id="questao-01"> Questão 01 <\h2>
+1## Questão 01
 
 Crie um programa que atenda a especificação dos diagramas abaixo.
 
