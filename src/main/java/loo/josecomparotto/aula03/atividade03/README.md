@@ -157,3 +157,9 @@ public class Calculadora {
 ## Questão 05
 
 *TODO*
+ 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
