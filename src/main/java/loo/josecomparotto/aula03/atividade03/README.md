@@ -28,7 +28,7 @@ As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o con
   <img src="../../../../../../../assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
 </p>
 
-### Resposta (Questão 01)
+### Resposta Q1
 
 <https://github.com/JoseComparotto/loo/blob/98243d9cdab436cc9c1e5734b4f9fbb1edc640e1/src/main/java/loo/josecomparotto/aula03/atividade03/questao01/BasePessoa.java#L1-L107>
 
@@ -108,11 +108,11 @@ Marque a alternativa correta nas afirmações abaixo.
 
 - E) O código está semanticamente incorreto, e compilará sem erros ou avisos.
 
-### Resposta (Questão 02)
+### Resposta Q2
 
 **B)** A propriedade `setId()`, da classe `Classe`, senão existir, não irá gerar erro de compilação.
 
-### Justificativa (Questão 02)
+### Justificativa Q2
 
 A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar nenhum método getter ou setter. Apesar de que neste caso o metodo referido está implementado na classe `BaseIdentificador` e não na classe `Classe`.
 
@@ -150,11 +150,11 @@ public class Calculadora {
 
 - E) Baseado na semântica e funcionalidade do código, a classe está escrita incorretamente, e compilará com erros e avisos
 
-### Resposta (Questão 03)
+### Resposta Q3
 
 **A)** Se necessário, o programador pode criar uma instância dessa classe, facilitando assim sua operação, bastando adicionar a outra classe a linha de código: `Calculadora calc = new Calculadora()`
 
-### Justificativa (Questão 03)
+### Justificativa Q3
 
 O uso descrito na alternatva é plenamente válido, uma vez que a classe não é abstrata, logo pode ser instanciada diretamente. Além de que a única forma de acessar os métodos da classe é através de uma instancia, pois os métodos não são estáticos.
 
