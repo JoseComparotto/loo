@@ -4,6 +4,8 @@ Academico: [José A. Q. C. Gomes `@JoseComparotto`](https://github.com/JoseCompa
 
 Professor: [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao)
 
+Disciplina: Linguagem Orientada a Objetos
+
 Universidade: Uniderp Matriz - Campo Grande, MS
 
 Curso: Engenharia da Computação - Noturno
