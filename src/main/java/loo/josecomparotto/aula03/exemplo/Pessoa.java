@@ -5,7 +5,6 @@ import java.time.LocalDate;
 /**
  * 2023.2 - LOO - Aula 03
  * 
- * @link https://github.com/JoseComparotto/loo/docs/drawio/loo_aula_03.drawio
  * @author José A. Q. C. Gomes
  */
 public class Pessoa {
