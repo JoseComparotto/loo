@@ -13,7 +13,7 @@
 | - | - | - | - | - |
 | - | B | A |   |   |
 
-## Questão 01
+## Questão 01 {#questao01}
 
 Crie um programa que atenda a especificação dos diagramas abaixo.
 
@@ -28,7 +28,7 @@ As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o con
   <img src="../../../../../../../assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
 </p>
 
-### Resposta:
+### Resposta: {#questao01-resposta}
 
 <https://github.com/JoseComparotto/loo/blob/98243d9cdab436cc9c1e5734b4f9fbb1edc640e1/src/main/java/loo/josecomparotto/aula03/atividade03/questao01/BasePessoa.java#L1-L107>
 
@@ -36,7 +36,7 @@ As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o con
 
 <https://github.com/JoseComparotto/loo/blob/98243d9cdab436cc9c1e5734b4f9fbb1edc640e1/src/main/java/loo/josecomparotto/aula03/atividade03/questao01/Professor.java#L1-L41>
 
-## Questão 02
+## Questão 02 {#questao02}
 
 Considere o trecho de código abaixo.
 
@@ -108,15 +108,15 @@ Marque a alternativa correta nas afirmações abaixo.
 
 - E) O código está semanticamente incorreto, e compilará sem erros ou avisos.
 
-### Resposta:
+### Resposta {#questao02-resposta}
 
 **B)** A propriedade `setId()`, da classe `Classe`, senão existir, não irá gerar erro de compilação.
 
-### Justificativa:
+### Justificativa {#questao02-justificativa}
 
 A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar nenhum método getter ou setter. Apesar de que neste caso o metodo referido está implementado na classe `BaseIdentificador` e não na classe `Classe`.
 
-## Questão 03
+## Questão 03 {#questao03}
 
 Observe o código abaixo, e marque Verdadeiro ou Falso nas afirmações a seguir.
 
@@ -150,24 +150,18 @@ public class Calculadora {
 
 - E) Baseado na semântica e funcionalidade do código, a classe está escrita incorretamente, e compilará com erros e avisos
 
-### Respota:
+### Resposta {#questao04-resposta}
 
 **A)** Se necessário, o programador pode criar uma instância dessa classe, facilitando assim sua operação, bastando adicionar a outra classe a linha de código: `Calculadora calc = new Calculadora()`
 
-### Justificativa:
+### Justificativa {#questao03-justificativa}
 
 O uso descrito na alternatva é plenamente válido, uma vez que a classe não é abstrata, logo pode ser instanciada diretamente. Além de que a única forma de acessar os métodos da classe é através de uma instancia, pois os métodos não são estáticos.
 
-## Questão 04
+## Questão 04 {#questao04}
 
 *TODO*
 
-## Questão 05
+## Questão 05 {#questao05}
 
 *TODO*
- 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
