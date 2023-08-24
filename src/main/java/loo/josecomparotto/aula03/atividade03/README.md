@@ -9,9 +9,13 @@
 
 ## Resumo
 
-| [1](#questão-01) | [2](#questão-02) | [3](#questão-03) | [4](#questão-04) | [5](#questão-06) |
-| - | - | - | - | - |
-| [Código](#resposta-q1) | [B](#resposta-q2) | [A](#resposta-q3) |   |   |
+| Questão | Resposta |
+| :-----: | :------: |
+| [Código](#resposta-q1) | [Ver código](#resposta-q1)
+| [Código](#resposta-q2) | [B](#resposta-q2)
+| [Código](#resposta-q3) | [A](#resposta-q3)
+| [Código](#resposta-q4) | [](#resposta-q4)
+| [Código](#resposta-q5) | [](#resposta-q5)
 
 ## Questão 01
 
