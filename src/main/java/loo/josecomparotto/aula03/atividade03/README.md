@@ -1,11 +1,11 @@
 # Atividade 03
 
-| :Uniderp: | :Engenharia da Computação: | :Noturno: |
-| --------- | ---------------------------| --------- |
+| Uniderp: | Engenharia da Computação | Noturno |
+| -------- | ------------------------ | :-----: |
 | Academico: | [José A. Q. C. Gomes `@JoseComparotto`](https://github.com/JoseComparotto) | RA: 398439413114 |
 | Professor: | [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao) |
-| Disciplina: | Linguagem Orientada a Objetos | :2023.2 - 4º Semestre:
-| Atividade: | [Atividade 03](https://github.com/JoseComparotto/loo/blob/0d5767e458a10784c507ba7afd6f9f6973873a34/docs/aula03/LOO%20-%20Atividade%2003.pdf) | :23/08/2023: |
+| Disciplina: | Linguagem Orientada a Objetos | 2023.2 - 4º Semestre
+| Atividade: | [Atividade 03](https://github.com/JoseComparotto/loo/blob/0d5767e458a10784c507ba7afd6f9f6973873a34/docs/aula03/LOO%20-%20Atividade%2003.pdf) | 23/08/2023 |
 
 ## Resumo
 
