@@ -5,7 +5,7 @@
 | Academico: | [José A. Q. C. Gomes `@JoseComparotto`](https://github.com/JoseComparotto) | RA: 398439413114 |
 | Professor: | [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao) |
 | Disciplina: | Linguagem Orientada a Objetos | 2023.2 - 4º Semestre
-| Atividade: | Atividade 03 | 23/08/2023 |
+| Atividade: | [Atividade 03](docs/aula03/LOO - Atividade 03.pdf) | 23/08/2023 |
 
 ## Questão 01
 
