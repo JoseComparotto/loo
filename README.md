@@ -22,11 +22,6 @@
             <td>Linguagem Orientada a Objetos</td>
             <td>Período: 2023.2 - 4º Semestre</td>
         </tr>
-        <tr>
-            <td>Atividade:</td>
-            <td><a href="https://drive.google.com/file/d/1k2aJ5Dg0wNOXxJ28nRfaI1WddvbDFsry/view">Atividade 03</a></td>
-            <td>23/08/2023</td>
-        </tr>
     </tbody>
 </table>
 
