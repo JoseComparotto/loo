@@ -19,3 +19,5 @@ Perído: 2023.2 - 4º Semestre
 *TODO: Incluir atividade em Markdown e códigos*
 
 ## [Atividade 03](src/main/java/loo/josecomparotto/aula03/atividade03/README.md)
+
+*Em Desenvolvimento*
