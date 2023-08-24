@@ -24,7 +24,7 @@
         </tr>
         <tr>
             <td>Atividade:</td>
-            <td><a href="https://drive.google.com/file/d/1k2aJ5Dg0wNOXxJ28nRfaI1WddvbDFsry/view">Atividade 03</a></td>
+            <td><a href="https://github.com/JoseComparotto/loo/blob/24d9b6fefce733d5c0877b614be834b62e654a7e/docs/aula03/LOO%20-%20Atividade%2003.pdf">Atividade 03</a></td>
             <td>23/08/2023</td>
         </tr>
     </tbody>

@@ -2,15 +2,7 @@ package loo.josecomparotto.aula02.atividade02;
 
 import java.util.Scanner;
 
-/**
- * QUESTÃO 02
- * <p>
- * Faça um programa usando Linguagem Java, que peça ao usuário que digite dois
- * números e mostre o produto deles.
- * </p>
- */
-
-public class Exercicio02 {
+public class Questao02 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double numero1, numero2, produto;

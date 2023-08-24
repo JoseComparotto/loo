@@ -1,14 +1,6 @@
 package loo.josecomparotto.aula02.atividade02;
 
-/**
- * QUESTÃO 03
- * <p>
- * Faça um programa usando Linguagem Java, que imprima a média aritmética de
- * três números. Ao final, o programa deve imprimir os resultados dos cálculos.
- * </p>
- */
-
-public class Exercicio03 {
+public class Questao03 {
     public static void main(String[] args) {
         double numero1, numero2, numero3, media;
         numero1 = 5;
