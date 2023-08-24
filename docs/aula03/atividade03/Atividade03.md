@@ -1,6 +1,6 @@
-# Atividade 03
+## Atividade 03
 
-## Questão 01
+### Questão 01
 
 Crie um programa que atenda a especificação dos diagramas abaixo.
 
@@ -23,7 +23,7 @@ As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o con
 
 <https://github.com/JoseComparotto/loo/blob/98243d9cdab436cc9c1e5734b4f9fbb1edc640e1/src/main/java/loo/josecomparotto/aula03/atividade03/questao01/Professor.java#L1-L41>
 
-## Questão 02
+### Questão 02
 
 Considere o trecho de código abaixo.
 
