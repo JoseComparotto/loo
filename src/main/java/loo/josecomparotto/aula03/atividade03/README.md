@@ -106,7 +106,6 @@ Marque a alternativa correta nas afirmações abaixo.
 
 **Justificativa**: A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar nenhum método getter ou setter. Apesar de que neste caso o metodo referido está implementado na classe `BaseIdentificador` e não na classe `Classe`.
 
-
 ## Questão 03
 
 Observe o código abaixo, e marque Verdadeiro ou Falso nas afirmações a seguir.
@@ -144,3 +143,11 @@ public class Calculadora {
 **Respota:** **A)** Se necessário, o programador pode criar uma instância dessa classe, facilitando assim sua operação, bastando adicionar a outra classe a linha de código: `Calculadora calc = new Calculadora()`
 
 **Justificativa:** O uso descrito na alternatva é plenamente válido, uma vez que a classe não é abstrata, logo pode ser instanciada diretamente. Além de que a única forma de acessar os métodos da classe é através de uma instancia, pois os métodos não são estáticos.
+
+## Questão 04
+
+*TODO*
+
+## Questão 05
+
+*TODO*
