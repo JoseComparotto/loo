@@ -1,6 +1,5 @@
 # Portifólio LOO
 
-
 <table style="width: 100%;display: table;">
     <tbody>
         <tr>
@@ -71,14 +70,14 @@
 Crie um programa que atenda a especificação dos diagramas abaixo.
 
 <p align="center">
-  <img src="../../../../../../../assets/img/diagrama_base_pessoa.jpg" alt="Diagrama BasePessoa" />
+  <img src="assets/img/diagrama_base_pessoa.jpg" alt="Diagrama BasePessoa" />
 </p>
 
 As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o construtor das classes Professor e Aluno.
 
 <p align="center">
-  <img src="../../../../../../../assets/img/diagrama_professor.jpg" alt="Diagrama Professor"/>
-  <img src="../../../../../../../assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
+  <img src="assets/img/diagrama_professor.jpg" alt="Diagrama Professor"/>
+  <img src="assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
 </p>
 
 #### Resposta Q1
