@@ -87,7 +87,7 @@ Marque a alternativa correta nas afirmações abaixo.
 
 - A) Todas as instâncias de classe podem ser inicializadas corretamente.
 
-- ***B) A propriedade `setId()`, da  classe `Classe`, senão existir, não  irágerar  erro  de compilação.***
+- ***B) A propriedade `setId()`, da classe `Classe`, senão existir, não irá gerar  erro de compilação.***
 
 - C) É correto considerar todas as classes representadas como instanciáveis, segundo os conceitos de Orientação a Objeto.
 
@@ -95,6 +95,6 @@ Marque a alternativa correta nas afirmações abaixo.
 
 - E) O código está semanticamente incorreto, e compilará sem erros ou avisos.
 
-**Resposta:** **B)** A propriedade `setId()`, da classe `Classe`, senão existir, não irágerar erro de compilação.
+**Resposta:** **B)** A propriedade `setId()`, da classe `Classe`, senão existir, não irá gerar erro de compilação.
 
-**Justificativa**: A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar os métodos getters e setters. Apesar de que neste caso o metodo referido está implementado na classe `BaseIdentificador` e não na classe `Classe`.
+**Justificativa**: A menos que o método esteja sendo chamado explicitamente em alguma linha de código do projeto, não é obrigatório implementar nenhum método getter ou setter. Apesar de que neste caso o metodo referido está implementado na classe `BaseIdentificador` e não na classe `Classe`.
