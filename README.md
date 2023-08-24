@@ -27,6 +27,6 @@
 
 ## [Atividade 01](docs/aula01/2023.2%20-%20LOO%20-%20Atividade%2001.pdf)
 
-## [Atividade 02](docs/aula02/2023.2%20-%20LOO%20-%20Atividade%2002.pdf)
+## [Atividade 02](src/main/java/loo/josecomparotto/aula02/atividade02)
 
 ## [Atividade 03](src/main/java/loo/josecomparotto/aula03/atividade03)
