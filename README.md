@@ -25,7 +25,7 @@
     </tbody>
 </table>
 
-## [Atividade 01](docs/aula01/2023.2%20-%20LOO%20-%20Atividade%2001.pdf)
+## [Atividade 01](docs/aula01/2023.2%20-%20LOO%20-%20Atividade%2001.md)
 
 ## [Atividade 02](src/main/java/loo/josecomparotto/aula02/atividade02)
 
