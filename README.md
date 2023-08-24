@@ -9,7 +9,3 @@ Universidade: Uniderp Matriz - Campo Grande, MS
 Curso: Engenharia da Computação
 
 Perído: 2023.2 - 4º Semestre
-
-## Teste
-
-src/main/java/loo/josecomparotto/aula03/exemplo/Pessoa.java#L1-L107
