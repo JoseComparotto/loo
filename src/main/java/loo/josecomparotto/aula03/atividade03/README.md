@@ -164,7 +164,7 @@ A menos que o método esteja sendo chamado explicitamente em alguma linha de có
 
 ## Questão 03
 
-Observe o código abaixo, e marque Verdadeiro ou Falso nas afirmações a seguir.
+Observe o código abaixo, e marque a alternativa correta nas afirmações a seguir.
 
 ```java
 public class Calculadora {
