@@ -1,11 +1,11 @@
 # Portifólio LOO
 
-| Academico:    | [José A. Q. C. Gomes <code>@JoseComparotto</code>](https://github.com/JoseComparotto) | RA: 398439413114              |
-| ------------- | ------------------------------------------------------------------------------------- | ----------------------------- |
-| Curso:        | Engenharia da Computação                                                              | Turno: Noturno                |
-| Professor:    | [Luiz Augusto Rodrigues <code>@profluizao</code>](https://github.com/profluizao)      |                               |
-| Disciplina:   | Linguagem Orientada a Objetos                                                         | Período: 2023.2 - 4º Semestre |
-| Universidade: | Anhanguera-Uniderp - Matriz                                                           | Campo Grande, MS              |
+| Academico:    | [José A. Q. C. Gomes <code>@JoseComparotto</code>](https://github.com/JoseComparotto) | RA: 398439413114     |
+| ------------- | ------------------------------------------------------------------------------------- | :------------------: |
+| Curso:        | Engenharia da Computação                                                              | Noturno              |
+| Professor:    | [Luiz Augusto Rodrigues <code>@profluizao</code>](https://github.com/profluizao)      |                      |
+| Disciplina:   | Linguagem Orientada a Objetos                                                         | 2023.2 - 4º Semestre |
+| Universidade: | Anhanguera-Uniderp - Matriz                                                           | Campo Grande, MS     |
 
 <details>
   
