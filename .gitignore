@@ -1,2 +1,5 @@
 # Bytecodes (.class) files
 target/*
+
+# Local VS Code configurations
+.vscode/* 
