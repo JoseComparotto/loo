@@ -1,4 +1,4 @@
-package loo.josecomparotto.aula02.atividade02;
+package loo.josecomparotto.atividades.atividade02;
 
 public class Questao01 {
 

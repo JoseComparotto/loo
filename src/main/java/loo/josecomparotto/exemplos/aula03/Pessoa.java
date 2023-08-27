@@ -1,13 +1,13 @@
-package loo.josecomparotto.aula03.atividade03.questao01;
+package loo.josecomparotto.exemplos.aula03;
 
 import java.time.LocalDate;
 
 /**
- * 2023.2 - LOO - Atividade 03 - Questão 01
+ * 2023.2 - LOO - Aula 03
  * 
  * @author José A. Q. C. Gomes
  */
-public abstract class BasePessoa {
+public abstract class Pessoa {
 
     protected int codigo;
     protected String nome;
@@ -18,7 +18,7 @@ public abstract class BasePessoa {
     protected String cpf;
     protected LocalDate dataInsercao;
 
-    public BasePessoa(int codigo, String nome, String endereco, String telefone, LocalDate dataNacimento, String rg,
+    public Pessoa(int codigo, String nome, String endereco, String telefone, LocalDate dataNacimento, String rg,
             String cpf, LocalDate dataInsercao) {
         this.codigo = codigo;
         this.nome = nome;
@@ -30,7 +30,7 @@ public abstract class BasePessoa {
         this.dataInsercao = dataInsercao;
     }
 
-    public BasePessoa() {
+    public Pessoa() {
     }
 
     public int getCodigo() {
@@ -99,7 +99,7 @@ public abstract class BasePessoa {
 
     @Override
     public String toString() {
-        return "BasePessoa [codigo=" + codigo + ", nome=" + nome + ", endereco=" + endereco + ", telefone=" + telefone
+        return "Pessoa [codigo=" + codigo + ", nome=" + nome + ", endereco=" + endereco + ", telefone=" + telefone
                 + ", dataNacimento=" + dataNacimento + ", rg=" + rg + ", cpf=" + cpf + ", dataInsercao=" + dataInsercao
                 + "]";
     }

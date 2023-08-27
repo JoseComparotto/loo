@@ -1,4 +1,4 @@
-package loo.josecomparotto.aula03.atividade03.questao03;
+package loo.josecomparotto.atividades.atividade03.questao03;
 
 public class Calculadora {
     public int Somar(int numero1, int numero2) {

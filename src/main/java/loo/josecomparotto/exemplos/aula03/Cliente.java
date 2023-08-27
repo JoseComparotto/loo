@@ -1,11 +1,11 @@
-package loo.josecomparotto.aula03.exemplo;
+package loo.josecomparotto.exemplos.aula03;
 
 import java.time.LocalDate;
 
 /**
  * 2023.2 - LOO - Aula 03
  * 
- * @see loo.josecomparotto.aula03.exemplo.Pessoa
+ * @see loo.josecomparotto.exemplos.aula03.Pessoa
  * 
  * @author José A. Q. C. Gomes
  */

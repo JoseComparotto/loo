@@ -1,4 +1,4 @@
-package loo.josecomparotto.aula03.atividade03.questao02;
+package loo.josecomparotto.atividades.atividade03.questao02;
 
 public abstract class BaseIdentificador {
     protected int id;

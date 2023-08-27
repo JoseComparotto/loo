@@ -1,4 +1,4 @@
-package loo.josecomparotto.aula03.exemplo;
+package loo.josecomparotto.exemplos.aula03;
 
 import java.time.LocalDate;
 

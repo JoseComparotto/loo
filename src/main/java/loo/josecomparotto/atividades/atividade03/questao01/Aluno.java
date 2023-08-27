@@ -1,4 +1,4 @@
-package loo.josecomparotto.aula03.atividade03.questao01;
+package loo.josecomparotto.atividades.atividade03.questao01;
 
 import java.time.LocalDate;
 
