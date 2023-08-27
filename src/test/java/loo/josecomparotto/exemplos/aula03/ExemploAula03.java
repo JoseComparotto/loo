@@ -1,6 +1,4 @@
-package loo.josecomparotto;
-
-import loo.josecomparotto.exemplos.aula03.App;
+package loo.josecomparotto.exemplos.aula03;
 
 public class ExemploAula03 {
 
