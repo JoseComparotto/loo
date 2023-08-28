@@ -18,7 +18,7 @@
 <h3 id="resumo-a1"> Resumo </h3>
 
 | **Questões** | **[1](#questao-a1-q1)** | **[2](#questao-a1-q2)** | **[3](#questao-a1-q3)** | **[4](#questao-a1-q4)** | **[5](#questao-a1-q5)** | **[6](#questao-a1-q6)** | **[7](#questao-a1-q7)** | **[8](#questao-a1-q8)** | **[9](#questao-a1-q9)** | **[10](%C3%A3o-10")** |
-| - | - | - | - | - | - | - | - | - | - | - |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Resposta** | [E](#resposta-a1-q1) | [B](#resposta-a1-q2) | [D](#resposta-a1-q3) | [A](#resposta-a1-q4) | [C](#resposta-a1-q5) | [A](#resposta-a1-q6) | [C](#resposta-a1-q7) | [C](#resposta-a1-q8) | [C](#resposta-a1-q9) | [B](#resposta-a1-q10) |
 
 <details>
