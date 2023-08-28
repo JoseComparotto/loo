@@ -39,11 +39,11 @@ As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o con
 
 <h4 id="resposta-a3-q1">Resposta</h4>
 
-<https://github.com/JoseComparotto/loo/blob/3bf2050aad43f94c39babc2a4fd1fa8a4c584bba/src/main/java/loo/josecomparotto/atividades/atividade03/questao01/Aluno.java#L1-L41>
+<https://github.com/JoseComparotto/loo/blob/ec2dc766b59cf4705c33b2d69a0ecbfbdd3fbe15/src/main/java/loo/josecomparotto/atividades/atividade03/questao01/BasePessoa.java#L1-L107>
 
-<https://github.com/JoseComparotto/loo/blob/3bf2050aad43f94c39babc2a4fd1fa8a4c584bba/src/main/java/loo/josecomparotto/atividades/atividade03/questao01/Aluno.java#L1-L41>
+<https://github.com/JoseComparotto/loo/blob/ec2dc766b59cf4705c33b2d69a0ecbfbdd3fbe15/src/main/java/loo/josecomparotto/atividades/atividade03/questao01/Aluno.java#L1-L41>
 
-<https://github.com/JoseComparotto/loo/blob/3bf2050aad43f94c39babc2a4fd1fa8a4c584bba/src/main/java/loo/josecomparotto/atividades/atividade03/questao01/Professor.java#L1-L41>
+<https://github.com/JoseComparotto/loo/blob/ec2dc766b59cf4705c33b2d69a0ecbfbdd3fbe15/src/main/java/loo/josecomparotto/atividades/atividade03/questao01/Professor.java#L1-L41>
 
 <details>
 
