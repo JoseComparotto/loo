@@ -473,9 +473,11 @@ Ao ﬁnal, o programa deverá imprimir a distância percorrida e a quantidade de
 
 <details>
 
+<summary>
+  
 ## Atividade 03
 
-<summary>
+</summary>
 
 [📦 src/main/java/loo/josecomparotto/atividades/atividade03](src/main/java/loo/josecomparotto/atividades/atividade03)
 ```plain
@@ -495,8 +497,6 @@ Ao ﬁnal, o programa deverá imprimir a distância percorrida e a quantidade de
 |
 └─ README.md
 ```
-
-</summary>
 
 <h3 id="resumo-a3"> Resumo </h3>
 
