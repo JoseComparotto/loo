@@ -495,14 +495,14 @@ Crie um programa que atenda a especificação dos diagramas abaixo.
 </summary>
 
 <p align="center">
-  <img src="../../../../../../../assets/img/diagrama_base_pessoa.jpg" alt="Diagrama BasePessoa" />
+  <img src="assets/img/diagrama_base_pessoa.jpg" alt="Diagrama BasePessoa" />
 </p>
 
 As classes abaixo devem ser derivadas da classe BasePessoa. Atenção para o construtor das classes Professor e Aluno.
 
 <p align="center">
-  <img src="../../../../../../../assets/img/diagrama_professor.jpg" alt="Diagrama Professor"/>
-  <img src="../../../../../../../assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
+  <img src="assets/img/diagrama_professor.jpg" alt="Diagrama Professor"/>
+  <img src="assets/img/diagrama_aluno.jpg" alt="Diagrama Aluno"/>
 </p>
 
 </details>
