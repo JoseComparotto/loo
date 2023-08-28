@@ -479,25 +479,6 @@ Ao ﬁnal, o programa deverá imprimir a distância percorrida e a quantidade de
 
 </summary>
 
-[📦 src/main/java/loo/josecomparotto/atividades/atividade03](src/main/java/loo/josecomparotto/atividades/atividade03)
-```plain
-├─ questao01
-|  ├─ Aluno.java
-|  ├─ BasePessoa.java
-|  └─ Professor.java
-|
-├─ questao02
-|  ├─ BaseIdentificador.java
-|  ├─ Classe.java
-|  ├─ Produto.java
-|  └─ Subclasse.java
-|
-├─ questao03
-|  └─ Calculadora.java
-|
-└─ README.md
-```
-
 <h3 id="resumo-a3"> Resumo </h3>
 
 | **Questão** | [1](#questao-a3-q1) | [2](#questao-a3-q2) | [3](#questao-a3-q3) | [4](#questao-a3-q4) | [5](#questao-a3-q5) |
