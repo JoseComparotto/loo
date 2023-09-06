@@ -17,7 +17,7 @@ Usando o que você aprendeu em POO, análise e otimize o diagrama abaixo, criand
 Após isso, crie um projeto Java chamado ProjetoEstagiario, codifique as classes que você otimizou, publique no GitHub, e mande o link para o professor.
 
 <p align="center">
-<img alt="Diagrama Atividade 4 - Original" src="docs/diagrama_a04_original.jpg" width="600"/>
+<img alt="Diagrama Atividade 4 - Original" src="assets/diagrama_a04_original.jpg" width="600"/>
 </p>
 
 ### Revisão do Diagrama
@@ -34,13 +34,13 @@ Analisando o diagrama fornecido, identifiquei os seguintes problemas, e suas res
 As correções listatas estão evidenciadas no diagrama anotado na figura abaixo:
 
 <p align="center">
-<img alt="Diagrama Atividade 4 - Anotado" src="docs/diagrama_a04_anotado.jpg" width="600"/>
+<img alt="Diagrama Atividade 4 - Anotado" src="assets/diagrama_a04_anotado.jpg" width="600"/>
 </p>
 
 Após as correções, o diagrama final ficou da seguinte forma:
 
 <p align="center">
-<img alt="Diagrama Atividade 4 - Corrigido" src="docs/diagrama_a04_corrigido.png" width="600"/>
+<img alt="Diagrama Atividade 4 - Corrigido" src="assets/diagrama_a04_corrigido.png" width="600"/>
 </p>
 
 ### Código
