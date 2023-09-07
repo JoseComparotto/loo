@@ -8,7 +8,7 @@ public abstract class BasePessoaFisica extends BasePessoa {
     protected String rg;
     protected String cpf;
     protected LocalDate dataNascimento;
-    
+
     public BasePessoaFisica(int codigo, LocalDate dataInsercao, String telefone, String endereco, String nome,
             String rg, String cpf, LocalDate dataNascimento) {
         super(codigo, dataInsercao, telefone, endereco);
@@ -48,6 +48,17 @@ public abstract class BasePessoaFisica extends BasePessoa {
 
     public void setDataNascimento(LocalDate dataNascimento) {
         this.dataNascimento = dataNascimento;
+    }
+
+    @Override
+    public void imprimir() {
+        super.imprimir();
+
+        System.out.printf("Nome: %s\n", this.nome);
+        System.out.printf("RG: %s\n", this.rg);
+        System.out.printf("CPF: %s\n", this.cpf);
+        System.out.printf("Data de Nascimento: %s\n", this.dataNascimento);
+
     }
 
 }

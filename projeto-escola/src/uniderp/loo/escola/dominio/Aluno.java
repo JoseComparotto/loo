@@ -29,4 +29,12 @@ public class Aluno extends BasePessoaFisica {
         this.dataMatricula = dataMatricula;
     }
 
+    @Override
+    public void imprimir() {
+        super.imprimir();
+
+
+    }
+
+
 }

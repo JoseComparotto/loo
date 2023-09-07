@@ -60,6 +60,16 @@ public abstract class BasePessoaJuridiaca extends BasePessoa {
         this.dataAbertura = dataAbertura;
     }
 
-    
+    @Override
+    public void imprimir() {
+        super.imprimir();
+
+        System.out.printf("Nome Fantasia: %s", this.nomeFantasia); 
+        System.out.printf("Razao Social: %s", this.razaoSocial); 
+        System.out.printf("CNPJ: %s", this.cnpj); 
+        System.out.printf("Inscrição Estadual: %s", this.ie); 
+        System.out.printf("Data de Abertura: %s", this.dataAbertura); 
+
+    }
 
 }

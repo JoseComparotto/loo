@@ -21,4 +21,9 @@ public class Professor extends BaseFuncionario {
         this.cadeira = cadeira;
     }
 
+    @Override
+    public void imprimir() {
+        // TODO Auto-generated method stub
+    }
+
 }

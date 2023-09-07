@@ -20,3 +20,5 @@ Projeto principal da disciplina para exemplificar o uso dos conceitos aprendidos
 * [Atividade 03](./atividades/atividade03/)
 
 * [Atividade 04](./atividades/atividade04/)
+
+* [Atividade 05](./atividades/atividade05/)

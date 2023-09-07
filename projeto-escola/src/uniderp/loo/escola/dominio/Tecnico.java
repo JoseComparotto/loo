@@ -21,4 +21,9 @@ public class Tecnico extends BaseFuncionario {
         this.setor = setor;
     }
 
+    @Override
+    public void imprimir() {
+        // TODO Auto-generated method stub
+    }
+
 }

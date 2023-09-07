@@ -6,7 +6,7 @@ public abstract class BasePessoa extends BaseDadosComuns {
 
     protected String telefone;
     protected String endereco;
-    
+
     public BasePessoa(int codigo, LocalDate dataInsercao, String telefone, String endereco) {
         super(codigo, dataInsercao);
         this.telefone = telefone;
@@ -24,8 +24,18 @@ public abstract class BasePessoa extends BaseDadosComuns {
     public String getEndereco() {
         return endereco;
     }
-    
+
     public void setEndereco(String endereco) {
         this.endereco = endereco;
     }
+
+    @Override
+    public void imprimir() {
+        super.imprimir();
+
+        System.out.printf("Telefone: %d\n", this.telefone);
+        System.out.printf("Endereco: %d\n", this.endereco);
+
+    }
+
 }

@@ -1,6 +1,6 @@
 package uniderp.loo.escola.dominio;
 
-public abstract class BaseIdentificador {
+public abstract class BaseIdentificador implements IImpressao {
     
     protected int codigo;
 
@@ -16,4 +16,9 @@ public abstract class BaseIdentificador {
         this.codigo = codigo;
     }
 
+    @Override
+    public void imprimir() {
+
+        System.out.printf("Código: %d\n", this.codigo);
+    }
 }

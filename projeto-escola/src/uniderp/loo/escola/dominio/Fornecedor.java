@@ -3,6 +3,7 @@ package uniderp.loo.escola.dominio;
 import java.time.LocalDate;
 
 public class Fornecedor extends BasePessoaJuridiaca {
+
     private String servico;
     private LocalDate dataContrato;
     private int periodoEmMeses;
@@ -38,6 +39,11 @@ public class Fornecedor extends BasePessoaJuridiaca {
 
     public void setPeriodoEmMeses(int periodoEmMeses) {
         this.periodoEmMeses = periodoEmMeses;
+    }
+
+    @Override
+    public void imprimir() {
+        // TODO Auto-generated method stub
     }
 
 }

@@ -19,4 +19,12 @@ public abstract class BaseDadosComuns extends BaseIdentificador {
         this.dataInsercao = dataInsercao;
     }
 
+    @Override
+    public void imprimir() {
+
+        super.imprimir();
+        System.out.printf("Data de Inserção: %s\n", this.dataInsercao.toString());
+
+    }
+
 }
