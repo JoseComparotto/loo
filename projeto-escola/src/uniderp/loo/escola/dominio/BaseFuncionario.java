@@ -51,4 +51,15 @@ public abstract class BaseFuncionario extends BasePessoaFisica {
         this.dataVinculoFinal = dataVinculoFinal;
     }
 
+    @Override
+    public void imprimir() {
+        super.imprimir();
+
+        System.out.printf("Cracha: \n", this.cracha); 
+        System.out.printf("Registro: \n", this.registro); 
+        System.out.printf("Data de Vinculo Inicial: \n", this.dataVinculoInicio); 
+        System.out.printf("Data de Vinculo Final: \n", this.dataVinculoFinal); 
+
+    }  
+
 }
