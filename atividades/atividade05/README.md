@@ -16,3 +16,6 @@ Usando o que você aprendeu em POO, análise os atributos, distribua nas classes
 
 Após isso, crie um projeto Java chamado ProjetoVeiculosEstagiario, codifique as classes que você criou no diagrama, publique no GitHub, e mande o link para o professor.
 
+<p align="center">
+<img src="docs/projeto_veiculos_estagiario.drawio.svg" alt="Diagrama de Classes Corrigido" style="background-color: #ffffff; padding:20px"/>
+</p>

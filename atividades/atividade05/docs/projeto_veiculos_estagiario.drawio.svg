@@ -1,0 +1,224 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="391px" height="611px" viewBox="-0.5 -0.5 391 611" content="&lt;mxfile&gt;&lt;diagram id=&quot;QmmwhgAQ9AdLAzw1RSk6&quot; name=&quot;Página-1&quot;&gt;7RrZcps69GuYSR7iweAtj8FubjPTzM1MO23vowCBNRWICJHY/foeGYnFYIesym37ZHQ4OvsmYctdJpt/OMrW1yzE1HLscGO5K8txxo7jwo+EbEvIZDEvATEnoUKqAZ/JT6yAtoIWJMR5C1EwRgXJ2sCApSkORAuGOGf3bbSI0TbXDMW4A/gcINqFfiOhWJfQhTOv4R8xidea83h2Xr5JkEZWmuRrFLL7Bsj9YLlLzpgon5LNElNpPG2Xct/lgbeVYBynYsgGp9xwh2ihdLOcGYWtXialE1ul8uy2kCJ5CeIxSS33ws421fJMsAxAkx1I4I04Q5TEEisAMTAHaE0BnmL1u+Pja8DVVZJxnOeI6Vcgtr+PDrBsH/ZWopIGACVAx6Pd1ZUkE6EAV+D2ln1tyBAN11yqqPNAyzc+LOpjTEJxJCqb9JH0ZMCAc0hC+MkpoML6K4MQ6pXYabF27jAXBFLnorTzaucAT1l9VfL2GGBFdJcIEYEAdb2IpUIl/thR60uUECpLxkdM77CkKk0jEiqRKt6SId4czIdxlWVQnjBLsOBbQNEbdIlRlelcLe/rNB+7CrZupPhCwZCqLHFFuU4+eFD515+Ls47tcAhlRy1TluK2uqAS336HhT2a6uV/zXcrqZRdrbZqVbKRtI8bCURhBQ8U1kTVWYgZLBrFo2tKjikS5K5Nvc8wausNI8C3dsGk7QLHnrZJlCKoXbV5LzhH2wZaJhHyI3zm014+tbdKirXvKh0HuXPeKa1Q4ChOsJKq4+lPyMe07WKdJlVx2s+mhIShpOFB5SQ/kb+jJ52stAfiU8+aro5lh+qSanPdm5oBMTuaNWf2yJ7PVVN/tvvbO1gU5VhY+3n0OF9MjLe5PENpLysfBT9izoo0PAsYZbwsryQlgiA6rHN6KMdXIchAIoiNEGgcb6ClLO+qr76UYQ62ZeTngiOYBZ/YlX3+/vu0u0vmkMRM20q8X2HlUNEJ3BMQ+fSlQvKJIpwOdfn/etCpJhvV/cbTnkln0jPpVBPSc0ad8556/KjZ52kzzKI7w0yeOcMM1Xjx23egr5gEBX3o8Pa39/y+vSeFtCgtBfqSNH6zQi6ZJ/KWiRljH+ggMcAbpey6of0Dbf812F8in0OXCpAhETKcs0/ktiChEiBkhTzOvLUMX5iQ9cGQBLcFgjkmRCG+yHMofSw3441ajhvGBTIkRVTGJHQAY4mZMYHTgCBjESFIxpYs8YtcDjPUmCFkZ7jhLOMEw/BFzJXpDJHcGHOcCxQabFG7lDTGXsainhFNyVBXpmsmGMfGC+S/QZHJEjVMEOMndjWxpn6eNbi84MmicZA4GY1GlrNsBMqx553llockPHDweEHBK/6vedB50EWvcdLbM6g9AKQ73bLR9ZpOqh8aLnwrTx0R1lTwDLXCnxI/QxL+HUROX/2x924wjbjRUxebupL+IVea+sOVutJ07e6VZvWhtnmlOdGIj7jgg2X9L43yi1T9Xxf3wy8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="130" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 132px; height: 80px; padding-top: 0px; margin-left: 0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 130px; height: 80px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        IImpressao
+                                    </b>
+                                </p>
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <i>
+                                        &lt;&lt;Interface&gt;&gt;
+                                    </i>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + imprimir(): Void
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="0" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    IImpressao...
+                </text>
+            </switch>
+        </g>
+        <path d="M 180 115 L 75 115 Q 65 115 65 105 L 65 86.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 65 81.12 L 68.5 88.12 L 65 86.37 L 61.5 88.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 116px; margin-left: 126px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                Implements
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="126" y="119" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Implements
+                </text>
+            </switch>
+        </g>
+        <rect x="180" y="60" width="140" height="110" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 142px; height: 110px; padding-top: 60px; margin-left: 180px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 140px; height: 110px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <span style="background-color: initial;">
+                                        <b>
+                                            BaseIdentificador
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <i style="background-color: initial;">
+                                        &lt;&lt;abstract&gt;&gt;
+                                    </i>
+                                    <br/>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # codigo: int
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + BaseIdentificador(int)
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + BaseIdentificador()
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="180" y="72" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    BaseIdentificador...
+                </text>
+            </switch>
+        </g>
+        <path d="M 250 210 L 250 176.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 250 171.12 L 253.5 178.12 L 250 176.37 L 246.5 178.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="110" y="210" width="280" height="400" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 282px; height: 400px; padding-top: 210px; margin-left: 110px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 280px; height: 400px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <span style="background-color: initial;">
+                                        <b>
+                                            BaseVeiculo
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <i style="background-color: initial;">
+                                        &lt;&lt;abstract&gt;&gt;
+                                    </i>
+                                    <br/>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # nome: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # modelo: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # cor: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # anoModelo: int
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # anoFabricacao: int
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # pesoLiquido: double
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # pesoTotal: double
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # quantidadeAssentos: int
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # quantidadePortas: int
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # fabricante: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # potencia: double
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # tipoCombustivel: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # nomeProprietario: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # pais: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # estado: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # cidade: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # tipoVeiculo: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # quantidadeMotores: int
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    # quantidadeOcupantes: int
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    +
+                                    <span style="background-color: initial;">
+                                        BaseVeiculo(..., string, string, string, int,
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        int,
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <span style="background-color: initial;">
+                                        double, double, int, int, string,
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        double,
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        string,
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <span style="background-color: initial;">
+                                        string, string, string, string,
+                                    </span>
+                                    <span style="background-color: initial;">
+                                        string, int, int)
+                                    </span>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + BaseVeiculo()
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="110" y="222" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    BaseVeiculo...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
