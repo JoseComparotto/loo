@@ -202,3 +202,68 @@ Compilando as alterações de todas as etapas, chego em um diagrama de classes f
 <p align="center">
 <img src="docs/diagrama_a5.drawio.svg" alt="Diagrama de Classes Corrigido" width="600"/>
 </p>
+
+#### Código
+
+
+<table>
+<tbody>
+<tr>
+<td colspan=5 style = "text-align: center"><i><b>IImpressao</b></i>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/IImpresao.java#L1-L7>
+
+</td>
+</tr>
+<tr>
+<td colspan=5 style = "text-align: center"><i><b>BaseIdentificador</b></i>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/BaseIdentificador.java#L1-L29>
+
+</td>
+</tr><tr>
+<td colspan=5 style = "text-align: center"><i><b>BaseVeiculo</b></i>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/BaseVeiculo.java#L1-L242>
+
+</td>
+</tr><tr>
+<td colspan=1 style = "text-align: center"><i><b>BaseVeiculoAereo</b></i>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/BaseVeiculoAereo.java#L1-L36>
+
+</td>
+<td colspan=4 style = "text-align: center"><i><b>BaseVeiculoTerrestre</b></i>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/BaseVeiculoTerrestre.java#L1-L58>
+
+</td>
+</tr><tr>
+<td colspan=1 style = "text-align: center"><b>Aviao</b>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/Aviao.java#L1-L35>
+
+</td>
+<td colspan=1 style = "text-align: center"><b>Caminhao</b>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/Caminhao.java#L1-L48>
+
+</td>
+<td colspan=1 style = "text-align: center"><b>Carro</b>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/Carro.java#L1-L49>
+
+</td>
+<td colspan=1 style = "text-align: center"><b>Motocicleta</b>
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/Motocicleta.java#L1-L47>
+
+</td>
+<td colspan=1 style = "text-align: center"><b>Onibus</b
+
+<https://github.com/JoseComparotto/loo/blob/243f9fbcb819a9f96e8bff710b57630b74365fc7/atividades/atividade05/src/loo/josecomparotto/a5/projeto_veiculos_estagiario/Onibus.java#L1-L47>
+
+</td>
+</tr>
+</tbody>
+</table>
