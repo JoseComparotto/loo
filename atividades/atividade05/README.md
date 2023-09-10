@@ -200,7 +200,7 @@ Isolei o atributo `codigo` na classe `BaseIdentificador` para manter o padrão d
 Compilando as alterações de todas as etapas, chego em um diagrama de classes final para o projeto.
 
 <p align="center">
-<img src="docs/diagrama_a5.drawio.svg" alt="Diagrama de Classes Corrigido" width="600"/>
+<img src="docs/diagrama_a5.drawio.svg" alt="Diagrama de Classes Corrigido" width="700"/>
 </p>
 
 #### Código
