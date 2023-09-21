@@ -226,10 +226,15 @@ A afirmação descreve as características do Polimorfismo apresentadas nas pág
 <h3 id="questao-a1-q7"> Questão 07 </h3>
 
 Analise as afirmações a seguir, sobre a programação orientada a objetos.
+
 I. Neste tipo de programação, objetos executam ações, mas não suportam propriedades ou atributos.
+
 II. Uma classe especifica o formato geral de seus objetos.
+
 III. As propriedades e ações disponíveis para um objeto não dependem de sua classe.
+
 IV. A tecnologia orientada a objetos permite que classes projetadas adequadamente sejam reutilizáveis em vários projetos.
+
 Marque a alternativa que representa corretamente as definições acima.
 
 </summary>
