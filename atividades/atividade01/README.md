@@ -269,10 +269,15 @@ A afirmação descreve as características do Polimorfismo apresentadas nas pág
 <h3 id="questao-a1-q8"> Questão 08 </h3>
 
 Observe as afirmações abaixo.
+
 I. As linguagens procedimentais que dominaram o mercado antes da programação estruturada, tal como o COBOL, caracterizaram-se por utilizar amplamente os tipos abstratos de dados.
+
 II. Entre os paradigmas de programação, estão a programação imperativa, a programação funcional, a programação embasada em lógica e a programação orientada por objetos.
+
 III. O Java, bem como o C#, é considerado uma linguagem procedural segmentada em corpo e variáveis.
+
 IV. A programação estruturada é uma filosofia de projeto procedimental que restringe o número e o tipo de construções lógicas usadas para representar o detalhe do algoritmo.
+
 Marque Verdadeiro ou Falso nas afirmações abaixo.
 
 </summary>
