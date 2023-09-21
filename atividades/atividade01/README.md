@@ -348,11 +348,17 @@ Afirmação completa corresponde à explicação do slide 46 da apresentação d
 <h3 id="questao-a1-q10"> Questão 10 </h3>
 
 No contexto de programação orientada a objetos, considere as afirmativas abaixo, e marque a alternativa correta.
+
 I. Objetos são instâncias de classes.
+
 II. Herança é uma relação entre objetos.
+
 III. Mensagens são formas de executar métodos.
+
 IV. Classes são apenas agrupamentos de métodos.
+
 V. Ocorre herança múltipla quando mais de um método é herdado.
+
 VI. Herança é uma relação entre classes.
 
 </summary>
