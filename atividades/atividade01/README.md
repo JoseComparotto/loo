@@ -6,7 +6,7 @@
 | Professor:    | [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao)                                                                        |                      |
 | Disciplina:   | Linguagem Orientada a Objetos                                                                                                                | 2023.2 - 4º Semestre |
 | Universidade: | Anhanguera-Uniderp - Matriz                                                                                                                  | Campo Grande, MS     |
-| Atividade:    | [Atividade 02](https://github.com/JoseComparotto/loo/blob/24d9b6fefce733d5c0877b614be834b62e654a7e/docs/encontro01/LOO%20-%20Atividade%2001.pdf) | 12/08/2023           |
+| Atividade:    | [Atividade 01](docs/LOO%20-%20Atividade%2001.pdf) | 12/08/2023           |
 
 <h3 id="resumo-a1"> Resumo </h3>
 
