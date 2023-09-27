@@ -6,7 +6,7 @@
 | Professor:    | [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao)                                                                        |                      |
 | Disciplina:   | Linguagem Orientada a Objetos                                                                                                                | 2023.2 - 4º Semestre |
 | Universidade: | Anhanguera-Uniderp - Matriz                                                                                                                  | Campo Grande, MS     |
-| Atividade:    | [Atividade 02](https://github.com/JoseComparotto/loo/blob/24d9b6fefce733d5c0877b614be834b62e654a7e/docs/encontro01/LOO%20-%20Atividade%2001.pdf) | 12/08/2023           |
+| Atividade:    | [Atividade 01](docs/LOO%20-%20Atividade%2001.pdf) | 12/08/2023           |
 
 <h3 id="resumo-a1"> Resumo </h3>
 
@@ -226,10 +226,15 @@ A afirmação descreve as características do Polimorfismo apresentadas nas pág
 <h3 id="questao-a1-q7"> Questão 07 </h3>
 
 Analise as afirmações a seguir, sobre a programação orientada a objetos.
+
 I. Neste tipo de programação, objetos executam ações, mas não suportam propriedades ou atributos.
+
 II. Uma classe especifica o formato geral de seus objetos.
+
 III. As propriedades e ações disponíveis para um objeto não dependem de sua classe.
+
 IV. A tecnologia orientada a objetos permite que classes projetadas adequadamente sejam reutilizáveis em vários projetos.
+
 Marque a alternativa que representa corretamente as definições acima.
 
 </summary>
@@ -264,10 +269,15 @@ A afirmação descreve as características do Polimorfismo apresentadas nas pág
 <h3 id="questao-a1-q8"> Questão 08 </h3>
 
 Observe as afirmações abaixo.
+
 I. As linguagens procedimentais que dominaram o mercado antes da programação estruturada, tal como o COBOL, caracterizaram-se por utilizar amplamente os tipos abstratos de dados.
+
 II. Entre os paradigmas de programação, estão a programação imperativa, a programação funcional, a programação embasada em lógica e a programação orientada por objetos.
+
 III. O Java, bem como o C#, é considerado uma linguagem procedural segmentada em corpo e variáveis.
+
 IV. A programação estruturada é uma filosofia de projeto procedimental que restringe o número e o tipo de construções lógicas usadas para representar o detalhe do algoritmo.
+
 Marque Verdadeiro ou Falso nas afirmações abaixo.
 
 </summary>
@@ -338,11 +348,17 @@ Afirmação completa corresponde à explicação do slide 46 da apresentação d
 <h3 id="questao-a1-q10"> Questão 10 </h3>
 
 No contexto de programação orientada a objetos, considere as afirmativas abaixo, e marque a alternativa correta.
+
 I. Objetos são instâncias de classes.
+
 II. Herança é uma relação entre objetos.
+
 III. Mensagens são formas de executar métodos.
+
 IV. Classes são apenas agrupamentos de métodos.
+
 V. Ocorre herança múltipla quando mais de um método é herdado.
+
 VI. Herança é uma relação entre classes.
 
 </summary>
