@@ -33,8 +33,8 @@ public abstract class BasePessoa extends BaseDadosComuns {
     public void imprimir() {
         super.imprimir();
 
-        System.out.printf("Telefone: %d\n", this.telefone);
-        System.out.printf("Endereco: %d\n", this.endereco);
+        System.out.printf("Telefone: %s\n", this.telefone);
+        System.out.printf("Endereco: %S\n", this.endereco);
 
     }
 

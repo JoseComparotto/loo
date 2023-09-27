@@ -1,7 +1,13 @@
 package uniderp.loo.escola.dominio;
 
-public class App {
+
+import uniderp.loo.escola.fakedb.AlunoFakeDB;
+
+public class App{
+
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        AlunoFakeDB alunodb = new AlunoFakeDB();
+
+        alunodb.imprimir();
     }
 }
