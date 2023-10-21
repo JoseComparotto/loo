@@ -1,0 +1,180 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="562px" height="522px" viewBox="-0.5 -0.5 562 522" content="&lt;mxfile&gt;&lt;diagram id=&quot;1lz8dF_N-HKQlhOSv8KW&quot; name=&quot;Página-1&quot;&gt;3VlZj9s2EP41BrYPXujw+SjvkTxkC6MO0PSRlmiJKCWqFLW2++s7vCRLlmwn6643AYKNOBrO8fHjjEgP/Id094mjPHlhEaYDz4l2A/9x4HmzmQ9/pWCvBePpVAtiTiItcmvBivyLjdAx0pJEuGgoCsaoIHlTGLIsw6FoyBDnbNtU2zDa9JqjGB8JViGix9I/SSQSk5Y3reWfMYkT69mdzPWbFFllk0mRoIhtD0T+08B/4IwJ/ZTuHjCV2Flc9LznnrdVYBxn4qIJZiVeES1NciYwsbfZclZmEZYTnIG/2CZE4FWOQvl2C8sLskSkFEYuPFYJSV1jG3OBd70BulXaQBfMUiz4HlTsBH+kpxiq+N5Yj7c18OOJQTM5AH1sIUZmsePKdo0HPBhIuuGZdKAzoeBhkTcwmvxTyhVbpIjHJBv4gZPvquFQMAApGCkRICGGiJJYaoUAAuYKKGsBnmLzv/KztoKAlhmzUoh73dYEWd6WJVyGafeP9eH2u/uetCjeiCqvY5NDtQEjEjNQkpjCgp8I9cqeM1hs7bcQnGTxu7oWKHC184iVa7D7vs6Xt3QeeLfM/FbOUxwRdKnvW+7KgQf/HFVM7tSOfKi2yG/dMbe6gazmBFphoGvYoypuC1PRHrX3BQOtDVV9YENkdV1sWCZMI3c9M35GKaGyrn/G9BVLq81e0tMrOjpKb/sYzeaN9jGaO0ftw+1qH+70Cu1j+nHaxwvOyp+teyDJ0kLvqi+kkO0DpZJt9LAhatHZZK4cWxEi+LbkOriVGXxQLPWelwy469nj/5NLvCNrwo1jhdQrg71huckvIeFVg7qRY0WYcp0CEJ8wVLOQIK7oW3Th8n7BBBEJCcsQ/x165y1isSaLHGWdVtco/DtWB5BhyCjj9lOSCILoufT+wFlE4EGwpwJmI96TofZ+Y47clJzIEkF/GJwngi662brIq1oNrUgSKcW9NhqpHVnAu5CWpD+C07Mp9IdTm+pXWakIb4D9PHDvVK4fqayeo4gJfXlh6H3zA+9t85c/Oh8+esMSqsiL/NbvtfGrEI1XxfOHa0Jt4mvJU9Q08VMfK9xp61jhHB8rQHh8rPCvcayw16CnLu0A+kDedMKI5ThrIgAvD0GTlVNYbeB2yrLoayJZo19Z3ZEVPCvw1RUfjmK8Mm4ZFwmLoY3Qp1oKziC9b1L9fj6fWcFfSuDA8cwIHnfWohrtD0dLzIFH6qxzcK/YsYIFK3mIG3d3EG+MReM8JmM+ucocUyTIa/O2t2vFzNQlU0dpy46x32THeNZadB2mmXV4O9syNJmfMaSTOzIEa4n2B2q5VChOBDxp0dn3W3zUFmt2VmBdRli7wWrCOvf32TFpYWG+oDWWO5tjOC2htXrlNOnbqgrdpaODI07jVwFju76Lv3z7D00+b+TJ0HcasFdja4JtNgUWg3Zp+E7wvSPw3bciz3VFuwH010HezrDAe/7bgYdh/buNVq9//PKf/gM=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="560" height="520" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="355" y="165" width="160" height="170" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 162px; height: 170px; padding-top: 165px; margin-left: 355px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 160px; height: 170px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Aluno
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - codigo: int
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - nome: string
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - notaA1: double
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - notaP1: double
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - notaA2: double
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - notaP2: double
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - media: double
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + Aluno(int, string)
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="355" y="177" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Aluno...
+                </text>
+            </switch>
+        </g>
+        <rect x="45" y="75" width="240" height="370" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 242px; height: 370px; padding-top: 75px; margin-left: 45px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 240px; height: 370px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin:0px;margin-top:4px;text-align:center;">
+                                    <b>
+                                        Menu
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - alunos: List&lt;Aluno&gt;
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - scanner: Scanner
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + Menu()
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    + exibirMenu(): void
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - submenuGerenciarAlunos(): void
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - submenuAdicionarNotas(): void
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <span style="background-color: initial;">
+                                        - submenuRendimentoEscolar(): void
+                                    </span>
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - adicionarAluno(): void
+                                </p>
+                                - alterarNomeAluno(): void
+                                <br/>
+                                - excluirAluno(): void
+                                <br/>
+                                - listarAlunos(): void
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - definirA1(Aluno): void
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;"></p>
+                                - definirP1(Aluno): void
+                                <br/>
+                                - definirA2(Aluno): void
+                                <br/>
+                                - definirP2(Aluno): void
+                                <br/>
+                                - calcularMedia(Aluno): void
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    - rendimentoAluno(): void
+                                </p>
+                                - rendimentoTurma(): void
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="45" y="87" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Menu...
+                </text>
+            </switch>
+        </g>
+        <path d="M 435 149.01 L 435 117.93 Q 435 107.93 425 107.93 L 286.76 107.93" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 435 164.01 L 430.59 156.51 L 435 149.01 L 439.41 156.51 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 298.64 101.43 L 285.64 107.93 L 298.64 114.43" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 142px; margin-left: 407px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                0..n
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="407" y="153" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px">
+                    0..n
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-end; width: 1px; height: 1px; padding-top: 92px; margin-left: 304px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: right;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="304" y="103" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="end">
+                    1
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

@@ -65,3 +65,7 @@ Documentação e Roteiro: 1h
 Estudo e Alinhamento: 3h
 
 **Carga Total: 6h 35min**
+
+## Diagrama de Classes
+
+![Diagrama de Classes](docs/diagrama_a6.drawio.svg)
