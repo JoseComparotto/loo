@@ -56,7 +56,7 @@ Crie um programa em Linguagem Java, usando POO, que:
       2. Turma (10min)
 3. Roteiro Apresentação (30min)
 
-### Carga Eorária Estimada
+### Carga Horária Estimada
 
 Codificação: 2h 35h
 
