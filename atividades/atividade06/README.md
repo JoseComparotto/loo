@@ -2,7 +2,7 @@
 
 | **Academico 1:** | [**José A. Q. C. Gomes `@JoseComparotto`**](https://github.com/JoseComparotto)  | **RA: 398439413114** |
 | ---------------- | ----------------------------------------------------------------------------------- | :------------------: |
-| **Academico 2:** | [**Yanni  Guerche `@<github_yanni>`**](https://github.com/<github_yanni>)           | **RA: <ra_yanni>**   |
+| **Academico 2:** | [**Yani Gabrielly Guerche Maricato `@YaniGuerche`**](https://github.com/YaniGuerche)           | **RA: 370430513114**   |
 | Curso:           | Engenharia da Computação                                                            | Noturno              |
 | Professor:       | [Luiz Augusto Rodrigues `@profluizao`](https://github.com/profluizao)               |                      |
 | Disciplina:      | Linguagem Orientada a Objetos                                                       | 2023.2 - 4º Semestre |
