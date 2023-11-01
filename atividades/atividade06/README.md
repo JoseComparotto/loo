@@ -69,3 +69,14 @@ Estudo e Alinhamento: 3h
 ## Diagrama de Classes
 
 ![Diagrama de Classes](docs/diagrama_a6.drawio.svg)
+
+## Dados de Teste
+
+| Codigo | Nome | A1 | P1 | A2 | P2 | Média |
+| ------ | ------ | -- | -- | -- | - | ---- |
+| 1      | André  | 7  | 10 | 8  | 6 | 8.50 |
+| 2      | Pedro  | 4  | 5  | 7  | 3 | 4.75 |
+| 3      | Paulo  | 3  | 7  | 5  | 8 | 5.75 |
+| 4      | João   | 7  | 7  | 10 | 8 | 8.00 |
+| 5      | Felipe | 8  | 10 | 9  | 9 | 9.00 |
+
